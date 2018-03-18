@@ -89,6 +89,10 @@ header nav ul li a {
   color: #f9e42e;
 }
 
+a:hover {
+  background-color: #075077;
+}
+
 #main {
   margin-top: 80px;
 }
@@ -225,3 +229,6 @@ footer p {
 /* ADDITIONAL STYLES
 /*******************************************/
 
+a:hover{
+  background-color: #606161;
+}
